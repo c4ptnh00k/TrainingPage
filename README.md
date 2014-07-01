@@ -1,0 +1,4 @@
+TrainingPage
+============
+
+training page
